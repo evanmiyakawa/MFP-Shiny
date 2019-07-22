@@ -1,0 +1,10 @@
+name: TestApp
+title: TestApp
+username:
+account: evan-miyakawa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1017847
+bundleId: 2226936
+url: https://evan-miyakawa.shinyapps.io/TestApp/
+when: 1562965999.53692
